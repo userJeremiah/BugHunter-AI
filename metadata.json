@@ -1,0 +1,5 @@
+{
+  "name": "Bug Hunter",
+  "description": "An AI assistant that processes screenshots of errors, stack traces, or UI bugs and helps developers fix them by providing explanations and code suggestions.",
+  "requestFramePermissions": []
+}
